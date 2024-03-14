@@ -1,0 +1,20 @@
+{
+  "name": "nav_sablon",
+  "version": "1.0.0",
+  "description": "NAVBAR SABLON",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Fekete János Dávid",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
