@@ -1,1 +1,1 @@
-#Ez egy sablon navigációs sávhoz
+# Ez egy sablon navigációs sávhoz
